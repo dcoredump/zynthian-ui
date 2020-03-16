@@ -13,6 +13,7 @@ __all__ = [
 	"zynthian_engine_modui",
 	"zynthian_engine_pianoteq",
 	"zynthian_engine_puredata",
+	"zynthian_engine_sonic-pi",
 	"zynthian_engine_aeolus",
 	"zynthian_engine_jalv",
 	"zynthian_engine_csound",
